@@ -34,7 +34,7 @@ The <b><i>Project Table</i></b> provided below states the <b><i>links</i></b> fo
 | <b><i> Serial No. | <b><i>Folder Name | <b><i> Permalink |
 |-|-|-|
 | 1. | <b><i>Queues | [Queue Folder](https://github.com/VishuKalier2003/Queues) |
-| 2. | <b><i>Stacks | [Stack Folder]() |
+| 2. | <b><i>Stacks | [Stack Folder](https://github.com/VishuKalier2003/Stacks) |
 
 ## ${\color{lightblue} Made \space By}$
 ***Vishu Kalier***
